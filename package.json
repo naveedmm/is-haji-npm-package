@@ -1,0 +1,22 @@
+{
+  "name": "@naveed_niazi/is-haji",
+  "version": "1.0.2",
+  "description": "Is the string 'haji' ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveedmm/is-haji-npm-package.git"
+  },
+  "keywords": [
+    "haji"
+  ],
+  "author": "Naveed Abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveedmm/is-haji-npm-package/issues"
+  },
+  "homepage": "https://github.com/naveedmm/is-haji-npm-package#readme"
+}
